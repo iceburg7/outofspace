@@ -18,9 +18,9 @@ $(document).ready(function(){
 		$(y).removeClass("hide");
 		$(y).addClass("show");
 	}
-	
+	/*
 	$(".title1").click(function(){
 		hide(".title1");
 	});
-	
+	*/
 });
