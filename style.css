@@ -11,10 +11,14 @@ body {
 	margin-right:auto;
 	margin-top:6px;
 	background-color: white;
-	color: green;
 }
 
-
+.title1{
+	width:800px;
+	height:600px;
+	background-color:black;
+	background-image:url("images/title1.jpg");
+}
 
 
 .show{
